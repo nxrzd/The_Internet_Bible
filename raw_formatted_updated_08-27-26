@@ -1,0 +1,499 @@
+Absolutely. Here is the full collection as **plain text**, with **duplicates removed** but otherwise preserving every unique item from your original prompt. No Markdown tables or extra formatting so you can organize it yourself.
+
+```text
+Have I Been Pwned
+https://haveibeenpwned.com/
+Check whether your email address or password has appeared in known data breaches.
+
+Behind the Email
+https://behindtheemail.com/
+Discover publicly available accounts, usernames, and profiles associated with an email address.
+
+h8mail
+https://github.com/khast3x/h8mail
+Open-source tool for searching email addresses across public breach datasets.
+
+DNSDumpster
+https://dnsdumpster.com/
+Map DNS records, discover subdomains, and visualize network infrastructure.
+
+DNS Leak Test
+https://dnsleaktest.com/
+Verify whether your VPN is leaking DNS requests and exposing your ISP.
+
+CentralOps Network Tools
+https://centralops.net/co/
+Collection of DNS, WHOIS, traceroute, and network diagnostic utilities.
+
+MXToolbox
+https://mxtoolbox.com/
+Analyze DNS, MX records, email configuration, and blacklist status.
+
+DomainTools WHOIS
+https://whois.domaintools.com/
+Research domain ownership, registration history, and DNS information.
+
+ARIN WHOIS
+https://www.arin.net/
+Look up IP address ownership and network allocation information.
+
+SSL Labs SSL Test
+https://www.ssllabs.com/ssltest/
+Analyze SSL/TLS configurations and identify security weaknesses.
+
+Shodan
+https://www.shodan.io/
+Search engine for internet-connected devices, servers, and exposed services.
+
+Censys
+https://censys.io/
+Discover internet-facing hosts, certificates, domains, and exposed services.
+
+ZoomEye
+https://www.zoomeye.ai/
+Internet asset search engine for identifying exposed devices and infrastructure.
+
+Insecam
+http://insecam.org/
+Directory of publicly accessible IP cameras discovered via internet search. Intended for awareness, research, and security auditing.
+
+Insecam Mirror
+http://insecam.com/
+Mirror of Insecam providing access to indexed publicly accessible IP cameras for security awareness and research.
+
+VirusTotal
+https://www.virustotal.com/
+Scan files, URLs, domains, and IPs using dozens of antivirus engines and threat intelligence feeds.
+
+Hybrid Analysis
+https://www.hybrid-analysis.com/
+Analyze suspicious files and malware safely inside an interactive sandbox.
+
+urlscan.io
+https://urlscan.io/
+Inspect websites to view requests, redirects, technologies, and network activity.
+
+Lookyloo
+https://lookyloo.circl.lu/
+Analyze websites through archived browser sessions to inspect page behavior and resources.
+
+AlienVault Open Threat Exchange (OTX)
+https://otx.alienvault.com/
+Community-driven platform for sharing indicators of compromise (IOCs) and threat intelligence.
+
+ThreatYeti
+https://threatyeti.com/
+Search threat intelligence data, indicators, and cyber threat information.
+
+MITRE CVE List
+https://cve.mitre.org/cve/
+Official catalog of publicly disclosed cybersecurity vulnerabilities and exposures.
+
+Intelbase
+https://intelbase.is/
+OSINT search platform for investigating leaked data, emails, IPs, domains, and usernames.
+
+MaxIntel
+https://maxintel.org/
+Intelligence platform for OSINT research and digital reconnaissance.
+
+OSINT Handbook
+https://www.osinthandbook.com/
+Comprehensive guide to OSINT methodologies, tools, and investigative techniques.
+
+OSINT Frame.work
+https://osintframe.work/
+Curated directory of OSINT resources organized by investigation category.
+
+Awesome OSINT
+https://github.com/jivoi/awesome-osint
+Large collection of OSINT tools and resources.
+
+Flashpoint OSINT Tools Library
+https://flashpoint.io/osint-tools-library/
+Extensive library of OSINT tools categorized by investigative purpose.
+
+Digital Footprint Check
+https://www.digitalfootprintcheck.com/osint-tools-free
+Collection of free OSINT tools for digital investigations and online research.
+
+BrowserLeaks
+https://browserleaks.com/
+View the information your browser exposes to websites, including fingerprinting data.
+
+AmIUnique
+https://amiunique.org/
+Measure how unique and trackable your browser fingerprint is.
+
+Exposing.ai
+https://exposing.ai/
+Check whether publicly available images may have been included in AI training datasets.
+
+Just Delete Me
+https://justdeleteme.xyz/
+Find direct links and instructions for deleting accounts from hundreds of online services.
+
+Should I Remove It?
+https://www.shouldiremoveit.com/
+Identify unnecessary, unwanted, or potentially risky software installed on Windows.
+
+Pentester.com
+https://pentester.com/
+Collection of penetration testing, reconnaissance, and security assessment tools.
+
+Osiris AI
+https://osirisai.live/
+AI-assisted platform for OSINT research and cyber investigations.
+
+picoCTF
+https://picoctf.org/
+Free Capture the Flag platform for learning cybersecurity through hands-on challenges.
+
+OnlyLANS
+https://onlylans.justhacking.com/
+Interactive networking and cybersecurity lab for learning infrastructure concepts.
+
+OSINT: How to Find Hidden Data Leaks Using Free Tools
+https://infosecwriteups.com/osint-how-to-find-hidden-data-leaks-using-free-tools-b1f1613dc638
+Tutorial covering techniques for identifying publicly exposed data.
+
+15 Free OSINT Tools (2026 Guide)
+https://medium.com/@sehgalrudra07/15-free-osint-tools-that-reveal-everything-online-2026-guide-807f7cc22931
+Beginner-friendly overview of useful free OSINT resources.
+
+Password OSINT Tools
+https://medium.com/@anmolvats220703/get-to-know-password-osint-tools-19eafb0cc197
+Introduction to researching leaked passwords and exposed credentials.
+
+Unpaywall
+https://unpaywall.org/
+Free research papers and legally available open-access versions of scholarly articles.
+
+Open Library
+https://openlibrary.org/
+Borrow books online and explore a large catalog of books.
+
+DOAJ
+https://doaj.org/
+Directory of free open-access academic journals.
+
+AlternativeTo
+https://alternativeto.net/
+Find alternatives to applications and online services.
+
+JustWatch
+https://justwatch.com/
+Find where movies and TV shows are available to stream.
+
+Internet Archive
+https://archive.org/
+Digital archive containing websites, books, software, music, video, and other resources.
+
+Project Gutenberg
+https://gutenberg.org/
+Large collection of free public-domain ebooks.
+
+OpenStax
+https://openstax.org/
+Free textbooks for a wide range of academic subjects.
+
+OpenCulture
+https://openculture.com/
+Collection of free courses, educational resources, books, and media.
+
+WolframAlpha
+https://wolframalpha.com/
+Computational knowledge engine for solving complex problems and calculations.
+
+Photopea
+https://photopea.com/
+Photoshop alternative that runs directly in your browser.
+
+Squoosh
+https://squoosh.app/
+Compress and optimize images in your browser.
+
+Remove.bg
+https://remove.bg/
+Automatically remove backgrounds from images.
+
+Cleanup.pictures
+https://cleanup.pictures/
+Remove unwanted objects from photos.
+
+Unscreen
+https://unscreen.com/
+Remove video backgrounds automatically.
+
+Carbon
+https://carbon.now.sh/
+Create attractive images of source code.
+
+Ray.so
+https://ray.so/
+Create beautiful screenshots of source code.
+
+Shots
+https://shots.so/
+Create product mockups and visual presentations.
+
+Smartmockups
+https://smartmockups.com/
+Create product and device mockups.
+
+Have I Been Pwned
+https://haveibeenpwned.com/
+Check whether your email address or password has appeared in known data breaches.
+
+VirusTotal
+https://www.virustotal.com/
+Scan files and URLs before opening them.
+
+Privnote
+https://privnote.com/
+Create notes that delete themselves after being read.
+
+Temp Mail
+https://temp-mail.org/
+Generate temporary email addresses.
+
+File.io
+https://file.io/
+Temporary file sharing.
+
+Archive.ph
+https://archive.ph/
+Save webpages before they disappear.
+
+SimilarSites
+https://similarsites.com/
+Find websites similar to a given website.
+
+Radio Garden
+https://radio.garden/
+Explore radio stations around the world.
+
+Every Noise at Once
+https://everynoise.com/
+Explore music genres and discover related music.
+
+TuneFind
+https://tunefind.com/
+Find songs from movies and television shows.
+
+Music for Programming
+https://musicforprogramming.net/
+Focus music designed for programming and work.
+
+MyNoise
+https://mynoise.net/
+Create customizable background sounds and ambient noise.
+
+Coffitivity
+https://coffitivity.com/
+Café ambience for background listening.
+
+Elicit
+https://elicit.org/
+AI research assistant for finding and analyzing academic literature.
+
+Consensus
+https://consensus.app/
+Research-backed AI answers based on academic papers.
+
+Connected Papers
+https://connectedpapers.com/
+Visualize relationships and connections between academic papers.
+
+SciSpace
+https://scispace.com/
+Understand and analyze academic research papers.
+
+Summarize.tech
+https://summarize.tech/
+Generate summaries of YouTube videos.
+
+Phind
+https://phind.com/
+AI search and assistance focused on developers and programming problems.
+
+Regex101
+https://regex101.com/
+Test and debug regular expressions.
+
+CodeBeautify
+https://codebeautify.org/
+Format, validate, convert, and manipulate code and data.
+
+JSON Formatter
+https://jsonformatter.org/
+Format and validate JSON data.
+
+ExplainShell
+https://explainshell.com/
+Understand and break down terminal commands.
+
+Raindrop.io
+https://raindrop.io/
+Bookmark manager for saving, organizing, and searching webpages.
+
+DownDetector
+https://downdetector.com/
+Check whether online services are experiencing outages.
+
+TinEye
+https://tineye.com/
+Reverse image search.
+
+Fast.com
+https://fast.com/
+Internet speed test.
+
+Smallpdf
+https://smallpdf.com/
+Collection of PDF tools.
+
+iLovePDF
+https://ilovepdf.com/
+Merge, split, compress, convert, and edit PDF files.
+
+10 Minute Mail
+https://10minutemail.com/
+Temporary email service.
+
+Raphael AI
+https://raphael.ai/
+Free AI image generation.
+
+Krea
+https://krea.ai/
+Real-time AI image generation and creative tools.
+
+Magnific AI
+https://magnific.ai/
+AI-powered image upscaling and enhancement.
+
+Clipdrop
+https://clipdrop.co/
+AI-powered background removal, image editing, and cleanup tools.
+
+ElevenLabs
+https://elevenlabs.io/
+AI voice generation and voice cloning.
+
+Suno
+https://suno.com/
+Generate songs and music using AI.
+
+Runway
+https://runwayml.com/
+AI video generation and editing platform.
+
+Kling AI
+https://klingai.kuaishou.com/
+AI video generation and animation.
+
+D-ID
+https://d-id.com/
+Create talking digital humans from images and audio.
+
+SadTalker
+https://sadtalker.ai/
+Turn static photos into talking animated portraits.
+
+Cursor
+https://cursor.com/
+AI-powered code editor and programming assistant.
+
+Bolt.new
+https://bolt.new/
+Build websites and applications through natural-language prompts.
+
+v0
+https://v0.app/
+Generate frontend interfaces and webpages from descriptions.
+
+Replit
+https://replit.com/
+Browser-based programming environment with AI assistance and deployment.
+
+Napkin AI
+https://napkin.ai/
+Turn text into diagrams, visualizations, and infographics.
+
+Gamma
+https://gamma.app/
+AI-powered presentation and document creation.
+
+Notion AI
+https://notion.com/product/ai
+AI tools for writing, summarizing, translating, and organizing information.
+
+Uizard
+https://uizard.io/
+Turn sketches and descriptions into web interfaces and UI designs.
+
+Perplexity
+https://perplexity.ai/
+AI search engine providing answers with sources.
+
+Otter.ai
+https://otter.ai/
+Real-time meeting transcription and note-taking.
+
+OpusClip
+https://opus.pro/
+AI short-video editing and automatic highlight extraction.
+
+Poe
+https://poe.com/
+One-stop platform for accessing multiple AI models and assistants.
+
+Hugging Face Spaces
+https://huggingface.co/spaces
+Interactive applications and demos built with open-source AI models.
+
+Jasper AI
+https://jasper.ai/free
+AI writing assistant.
+
+Musiio
+https://musiio.com/
+AI music tagging and recommendation tools.
+
+The AI Library
+https://theailibrary.co/
+Directory of AI tools.
+
+Portfoliotab
+https://portfoliotab.io/
+Build a portfolio that brands can discover.
+
+DeepSwap
+https://deepswap.ai/
+AI-powered face swapping for images and video.
+
+Notion AI
+https://notion.com/product/ai
+AI writing, summarization, translation, and productivity tools.
+
+NotebookLM
+https://notebooklm.google.com/
+Turn documents into AI-powered study guides and research assistants.
+
+Namechk
+https://namechk.com/
+Check where a username exists across online services.
+
+WeTransfer
+https://wetransfer.com/
+Send large files online.
+
+DeepL
+https://deepl.com/
+AI-powered translation service.
+
+World Monitor
+https://www.worldmonitor.app/
+Monitor global events, cyber incidents, and open-source intelligence feeds.
+```
