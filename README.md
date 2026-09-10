@@ -368,3 +368,8 @@ https://start.me/p/L1rEYQ/osint4all
     ┣━━ Python → learnpython.org
     ┣━━ SQL → w3schools.com/sql
     ┗━━ Git → git-scm.com/book/en/v2
+
+
+
+https://daemoncore.app/
+https://gtfobins.org/
