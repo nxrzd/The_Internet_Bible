@@ -326,3 +326,45 @@ https://start.me/p/L1rEYQ/osint4all
 48. regex101.com — Test regex
 49. explainshell.com — Decode terminal commands
 50. deepl.com — The most accurate translator
+
+
+📂 LEARN FOR FREE
+┣━━ 📁 NETWORKING
+┃   ┣━━ CCNA / Packet Tracer → netacad.com
+┃   ┣━━ Subnetting Practice → subnettingpractice.com
+┃   ┣━━ Networking / Network+ → professormesser.com
+┃   ┗━━ Linux → labex.io/linuxjourney
+┃
+┣━━ 📁 CYBERSECURITY
+┃   ┣━━ Hands-on Labs → tryhackme.com
+┃   ┣━━ Offensive Security → hackthebox.com
+┃   ┣━━ Web App Security → portswigger.net/web-security
+┃   ┣━━ Wargames → overthewire.org
+┃   ┗━━ CTF Practice → picoctf.org
+┃
+┣━━ 📁 DEVOPS & CLOUD
+┃   ┣━━ DevOps Roadmap → roadmap.sh/devops
+┃   ┣━━ DevOps Courses → kodekloud.com
+┃   ┣━━ Docker → docker.com/get-started
+┃   ┣━━ Kubernetes → kubernetes.io/docs/tutorials
+┃   ┣━━ Terraform → developer.hashicorp.com/terraform/tuto…
+┃   ┣━━ Ansible → docs.ansible.com
+┃   ┣━━ Cloud (AWS) → aws.amazon.com/training
+┃   ┣━━ Cloud (GCP) → cloudskillsboost.google
+┃   ┗━━ Cloud (Azure) → learn.microsoft.com/en-us/training…
+┃
+┣━━ 📁 WEB3 SECURITY
+┃   ┣━━ Smart Contract Security → updraft.cyfrin.io
+┃   ┣━━ Solidity → learnweb3.io
+┃   ┣━━ Solidity by Example → solidity-by-example.org
+┃   ┣━━ Exploit Challenges → ethernaut.openzeppelin.com
+┃   ┣━━ DeFi Exploits → damnvulnerabledefi.xyz
+┃   ┗━━ Blockchain Basics → cryptozombies.io
+┃
+┗━━ 📁 CORE DEV
+    ┣━━ HTML → html.com
+    ┣━━ CSS → web.dev/learn/css
+    ┣━━ JavaScript → javascript.info
+    ┣━━ Python → learnpython.org
+    ┣━━ SQL → w3schools.com/sql
+    ┗━━ Git → git-scm.com/book/en/v2
