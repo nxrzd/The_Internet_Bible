@@ -48,6 +48,9 @@ A curated collection of cybersecurity, OSINT, reconnaissance, privacy, and threa
 | **Hybrid Analysis** | https://www.hybrid-analysis.com/ | Analyze suspicious files and malware safely inside an interactive sandbox. |
 | **urlscan.io** | https://urlscan.io/ | Inspect websites to view requests, redirects, technologies, and network activity. |
 | **Lookyloo (CIRCL)** | https://lookyloo.circl.lu/ | Analyze websites through archived browser sessions to inspect page behavior and resources. |
+| **TinEye** | https://tineye.com/ | Reverse image search to trace where an image has appeared online. |
+| **Internet Archive (Wayback Machine)** | https://archive.org/ | Browse historical snapshots of websites and other archived internet content. |
+| **archive.ph** | https://archive.ph/ | Save and retrieve permanent snapshots of webpages before they disappear or change. |
 
 ---
 
@@ -72,6 +75,8 @@ A curated collection of cybersecurity, OSINT, reconnaissance, privacy, and threa
 | **Awesome OSINT** | https://github.com/jivoi/awesome-osint | One of the largest GitHub collections of OSINT tools and resources. |
 | **Flashpoint OSINT Tools Library** | https://flashpoint.io/osint-tools-library/ | Extensive library of OSINT tools categorized by investigative purpose. |
 | **Digital Footprint Check** | https://www.digitalfootprintcheck.com/osint-tools-free | Collection of free OSINT tools for digital investigations and online research. |
+| **start.me OSINT Collection** | https://start.me/p/L1rEYQ/osint4all | Community-curated dashboard aggregating a wide range of OSINT tools and links. |
+| **Namechk** | https://namechk.com/ | Check whether a username or brand name is taken across many platforms at once. |
 
 ---
 
@@ -81,8 +86,21 @@ A curated collection of cybersecurity, OSINT, reconnaissance, privacy, and threa
 |------|-----|-------------|
 | **BrowserLeaks** | https://browserleaks.com/ | View the information your browser exposes to websites, including fingerprinting data. |
 | **AmIUnique** | https://amiunique.org/ | Measure how unique and trackable your browser fingerprint is. |
+| **Fingerprint.to** | https://fingerprint.to/ | Test and inspect your browser fingerprint to see how identifiable it is. |
 | **Exposing.ai** | https://exposing.ai/ | Check whether publicly available images may have been included in AI training datasets. |
 | **Just Delete Me** | https://justdeleteme.xyz/ | Find direct links and instructions for deleting accounts from hundreds of online services. |
+
+---
+
+# 🕶️ Anonymity & Temporary Services
+
+| Tool | URL | Description |
+|------|-----|-------------|
+| **Privnote** | https://privnote.com/ | Create self-destructing notes that disappear after being read. |
+| **Temp-Mail** | https://temp-mail.org/ | Disposable, temporary email address for sign-ups you don't want tied to your real inbox. |
+| **10 Minute Mail** | https://10minutemail.com/ | Short-lived temporary email address that expires after ten minutes. |
+| **file.io** | https://file.io/ | Temporary file sharing with links that self-delete after download. |
+| **WeTransfer** | https://wetransfer.com/ | Send large files without needing an account. |
 
 ---
 
@@ -99,6 +117,8 @@ A curated collection of cybersecurity, OSINT, reconnaissance, privacy, and threa
 | Tool | URL | Description |
 |------|-----|-------------|
 | **Pentester.com** | https://pentester.com/ | Collection of penetration testing, reconnaissance, and security assessment tools. |
+| **GTFOBins** | https://gtfobins.org/ | Curated list of Unix binaries that can be exploited to bypass local security restrictions. |
+| **DaemonCore** | https://daemoncore.app/ | Security-focused tooling and resource platform. |
 
 ---
 
@@ -112,10 +132,39 @@ A curated collection of cybersecurity, OSINT, reconnaissance, privacy, and threa
 
 # 🎓 Learning & Practice
 
-| Tool | URL | Description |
-|------|-----|-------------|
+| Resource | URL | Description |
+|---------|-----|-------------|
 | **picoCTF** | https://picoctf.org/ | Free Capture the Flag platform for learning cybersecurity through hands-on challenges. |
 | **OnlyLANS** | https://onlylans.justhacking.com/ | Interactive networking and cybersecurity lab for learning infrastructure concepts. |
+| **TryHackMe** | https://tryhackme.com/ | Guided, hands-on cybersecurity labs for all skill levels. |
+| **Hack The Box** | https://hackthebox.com/ | Offensive security training platform with realistic vulnerable machines. |
+| **PortSwigger Web Security Academy** | https://portswigger.net/web-security | Free, structured training in web application security. |
+| **OverTheWire** | https://overthewire.org/ | Classic wargames for learning security concepts through SSH challenges. |
+| **Cisco Networking Academy** | https://netacad.com/ | CCNA training and Packet Tracer network simulation. |
+| **Subnetting Practice** | https://subnettingpractice.com/ | Drill tool for practicing IP subnetting calculations. |
+| **Professor Messer** | https://professormesser.com/ | Free video courses for Network+, Security+, and A+ certifications. |
+| **Linux Journey (LabEx)** | https://labex.io/linuxjourney | Interactive path for learning Linux fundamentals. |
+| **DevOps Roadmap** | https://roadmap.sh/devops | Structured learning path for DevOps skills. |
+| **KodeKloud** | https://kodekloud.com/ | Hands-on DevOps and cloud courses with interactive labs. |
+| **Docker Get Started** | https://docker.com/get-started | Official beginner guide to containerization with Docker. |
+| **Kubernetes Tutorials** | https://kubernetes.io/docs/tutorials | Official tutorials for learning Kubernetes. |
+| **Terraform Tutorials** | https://developer.hashicorp.com/terraform/tutorials | Official Terraform infrastructure-as-code tutorials. |
+| **Ansible Docs** | https://docs.ansible.com/ | Official documentation and guides for Ansible automation. |
+| **AWS Training** | https://aws.amazon.com/training | Free official training for AWS cloud services. |
+| **Google Cloud Skills Boost** | https://cloudskillsboost.google/ | Hands-on labs and courses for Google Cloud. |
+| **Microsoft Learn (Azure)** | https://learn.microsoft.com/en-us/training | Free official Azure and Microsoft training paths. |
+| **Cyfrin Updraft** | https://updraft.cyfrin.io/ | Free smart contract security training. |
+| **LearnWeb3** | https://learnweb3.io/ | Solidity and Web3 development courses. |
+| **Solidity by Example** | https://solidity-by-example.org/ | Reference examples for learning Solidity syntax and patterns. |
+| **Ethernaut** | https://ethernaut.openzeppelin.com/ | Gamified smart contract exploitation challenges. |
+| **Damn Vulnerable DeFi** | https://damnvulnerabledefi.xyz/ | Challenges focused on exploiting DeFi protocol vulnerabilities. |
+| **CryptoZombies** | https://cryptozombies.io/ | Interactive coding lessons for building blockchain games. |
+| **HTML.com** | https://html.com/ | Free beginner-friendly HTML tutorials. |
+| **web.dev: Learn CSS** | https://web.dev/learn/css | Google's structured CSS learning course. |
+| **JavaScript.info** | https://javascript.info/ | In-depth modern JavaScript tutorial. |
+| **Learn Python** | https://learnpython.org/ | Free interactive Python tutorial. |
+| **W3Schools SQL** | https://w3schools.com/sql | Free SQL reference and tutorial. |
+| **Pro Git Book** | https://git-scm.com/book/en/v2 | Free comprehensive book on Git version control. |
 
 ---
 
@@ -134,242 +183,111 @@ A curated collection of cybersecurity, OSINT, reconnaissance, privacy, and threa
 | Tool | URL | Description |
 |------|-----|-------------|
 | **WorldMonitor** | https://www.worldmonitor.app/ | Monitor global events, cyber incidents, and open-source intelligence feeds. |
+| **Downdetector** | https://downdetector.com/ | Check whether a website or service is down for everyone or just you. |
 
-# unsorted entries
+---
 
-1. unpaywall.org — Free research papers
-2. openlibrary.org — Borrow books online
-3. doaj.org — Free academic journals
-4. alternativeto.net — App alternatives
-5. justwatch.com — Find where to stream
-6. archive.org — Internet archives
-7. gutenberg.org — 70K+ free books
-8. openstax.org — Free textbooks
-9. openculture.com — Free courses
-10. wolframalpha.com — Solve complex problems
-11. photopea.com — Photoshop alternative
-12. squoosh.app — Compress images
-13. remove.bg — Remove backgrounds
-14. cleanup.pictures — Remove objects
-15. unscreen.com — Remove video backgrounds
-16. carbon.now.sh — Beautiful code images
-17. ray.so — Code screenshots
-18. shots.so — Product mockups
-19. smartmockups.com — Create mockups
-20. haveibeenpwned.com — Check data breaches
-21. virustotal.com — Scan files & URLs
-22. privnote.com — Self-destructing notes
-23. temp-mail.org — Temporary email
-24. file.io — Temporary file sharing
-25. archive.ph — Save webpages
-26. similarsites.com — Find similar websites
-27. radio.garden — Explore global radio
-28. everynoise.com — Discover music genres
-29. tunefind.com — Find songs from shows
-30. musicforprogramming.net — Focus music
-31. mynoise.net — Custom background sounds
-32. coffitivity.com — Café ambience
-33. elicit.org — Research assistant
-34. consensus.app — Research-backed answers
-35. connectedpapers.com @sauda_coder — Research connections
-36. semanticscholar.org — Academic search
-37. scispace.com — Understand research papers
-38. summarize.tech — YouTube summaries
-39. phind.com — AI for developers
-40. regex101.com — Test regex
-41. codebeautify.org — Format code
-42. jsonformatter.org — Format JSON
-43. explainshell.com — Understand terminal commands
-44. raindrop.io — Bookmark manager
-45. downdetector.com — Check outages
-46. tineye.com — Reverse image search
-47. fast.com — Internet speed test
-48. smallpdf.com — PDF tools
-49. ilovepdf.com — Merge/split PDFs
-50. 10minutemail.com — Temporary email
+# 📖 Research & Academic Resources
 
-1. raphael.ai — Free Unlimited AI Image Generation
-Quality Comparable to Midjourney
+| Resource | URL | Description |
+|---------|-----|-------------|
+| **Unpaywall** | https://unpaywall.org/ | Find free, legal full-text versions of paywalled research papers. |
+| **Open Library** | https://openlibrary.org/ | Borrow books online for free. |
+| **DOAJ** | https://doaj.org/ | Directory of free, open-access academic journals. |
+| **Project Gutenberg** | https://gutenberg.org/ | Over 70,000 free public-domain books. |
+| **OpenStax** | https://openstax.org/ | Free, peer-reviewed textbooks. |
+| **Open Culture** | https://openculture.com/ | Free courses, books, and cultural media. |
+| **Semantic Scholar** | https://semanticscholar.org/ | AI-powered academic search engine. |
+| **Connected Papers** | https://connectedpapers.com/ | Visualize how academic papers relate to one another. |
+| **SciSpace** | https://scispace.com/ | Tools to help read and understand dense research papers. |
+| **Elicit** | https://elicit.org/ | AI research assistant for summarizing and finding papers. |
+| **Consensus** | https://consensus.app/ | Get research-backed answers drawn from academic literature. |
+| **Summarize.tech** | https://summarize.tech/ | Generate summaries of long YouTube videos. |
+| **NotebookLM** | https://notebooklm.google.com/ | Turn your own documents into study guides and notes. |
+| **Wolfram Alpha** | https://wolframalpha.com/ | Computational engine for solving complex math and data problems. |
 
-2. krea.ai — Real-Time AI Image Generation
-Generate Images as You Draw
+---
 
-3. magnific.ai — AI Unlimited Image Upscaling
-Details Automatically Filled In
+# 🖼️ Image, File & Productivity Tools
 
-4. clipdrop.co — AI One-Click Background Removal/Light Editing/Eraser
+| Tool | URL | Description |
+|------|-----|-------------|
+| **Photopea** | https://photopea.com/ | Free browser-based Photoshop alternative. |
+| **Squoosh** | https://squoosh.app/ | Compress images without losing much quality. |
+| **remove.bg** | https://remove.bg/ | One-click AI background removal from images. |
+| **Cleanup.pictures** | https://cleanup.pictures/ | AI tool for removing unwanted objects from photos. |
+| **Unscreen** | https://unscreen.com/ | Remove backgrounds from videos automatically. |
+| **Carbon** | https://carbon.now.sh/ | Generate beautiful shareable images of code snippets. |
+| **Ray.so** | https://ray.so/ | Turn code into polished screenshot images. |
+| **Shots.so** | https://shots.so/ | Create product mockup images quickly. |
+| **Smartmockups** | https://smartmockups.com/ | Create device and product mockups. |
+| **iLovePDF** | https://ilovepdf.com/ | Merge, split, and compress PDF files. |
+| **Smallpdf** | https://smallpdf.com/ | Suite of free online PDF editing tools. |
+| **JSON Formatter** | https://jsonformatter.org/ | Format and validate JSON data. |
+| **Code Beautify** | https://codebeautify.org/ | Format and beautify code and data across many languages. |
+| **Regex101** | https://regex101.com/ | Build and test regular expressions with live explanations. |
+| **Explainshell** | https://explainshell.com/ | Break down and explain what a terminal command does. |
 
-5. elevenlabs.io — AI Voice Cloning
-Master Any Voice in 5 Seconds
+---
 
-6. suno.com — Input Lyrics
-Automatically Generate Full Songs
+# 🎧 Music, Ambience & Media Discovery
 
-7. runwayml.com — AI Video Generation Pioneer
-Free Gen-3 Trial
+| Tool | URL | Description |
+|------|-----|-------------|
+| **Radio Garden** | https://radio.garden/ | Explore live radio stations from around the world on a globe. |
+| **Every Noise at Once** | https://everynoise.com/ | Explore and discover music genres algorithmically. |
+| **TuneFind** | https://tunefind.com/ | Find the song that played in a specific movie or TV scene. |
+| **Music for Programming** | https://musicforprogramming.net/ | Curated background music for focused work. |
+| **myNoise** | https://mynoise.net/ | Build custom ambient background soundscapes. |
+| **Coffitivity** | https://coffitivity.com/ | Café ambience sounds for background focus. |
+| **JustWatch** | https://justwatch.com/ | Find which streaming service has the movie or show you want. |
+| **SimilarSites** | https://similarsites.com/ | Discover websites similar to ones you already like. |
+| **AlternativeTo** | https://alternativeto.net/ | Find free or cheaper alternatives to any app or service. |
 
-8. klingai.kuaishou.com — Kuaishou Keling AI
-The Smoothest Chinese Video Generation
+---
 
-9. d-id.com — One Photo + One Audio Clip
-Generate a Talking Digital Human
+# 🤖 AI Tools & Generators
 
-10. sadtalker.ai — Turn Static Photos into Talking Videos
+| Tool | URL | Description |
+|------|-----|-------------|
+| **Raphael AI** | https://raphael.ai/ | Free AI image generation comparable in quality to Midjourney. |
+| **Krea AI** | https://krea.ai/ | Real-time AI image generation as you draw. |
+| **Magnific AI** | https://magnific.ai/ | AI image upscaling with automatic detail enhancement. |
+| **Clipdrop** | https://clipdrop.co/ | One-click AI background removal and light photo editing. |
+| **ElevenLabs** | https://elevenlabs.io/ | AI voice cloning from short audio samples. |
+| **Suno** | https://suno.com/ | Generate full songs automatically from lyrics. |
+| **Runway ML** | https://runwayml.com/ | Pioneer in AI video generation with a free trial tier. |
+| **Kling AI** | https://klingai.kuaishou.com/ | Kuaishou's AI video generation tool. |
+| **D-ID** | https://d-id.com/ | Turn a photo and audio clip into a talking digital human. |
+| **SadTalker** | https://sadtalker.ai/ | Turn static photos into talking videos. |
+| **DeepSwap** | https://deepswap.ai/ | AI face swap in images and video. |
+| **Musiio** | https://musiio.com/ | AI music tagging and recommendation engine. |
+| **Jasper** | https://jasper.ai/free | AI writing assistant with a usable free tier. |
+| **Notion AI** | https://notion.com/product/ai | AI-assisted writing, summarizing, and translation inside Notion. |
+| **Perplexity** | https://perplexity.ai/ | AI search engine with instant, sourced answers. |
+| **Phind** | https://phind.com/ | AI search engine built for developers and coding questions. |
+| **Otter.ai** | https://otter.ai/ | Real-time meeting transcription with a free monthly quota. |
+| **Opus Pro** | https://opus.pro/ | AI tool for finding and editing highlight clips from long videos. |
+| **Poe** | https://poe.com/ | Access GPT-4o, Claude, Gemini, and other models in one place. |
+| **Hugging Face Spaces** | https://huggingface.co/spaces | Try open-source AI models for free directly in the browser. |
+| **The AI Library** | https://theailibrary.co/ | Directory of 5,000+ AI tools in one place. |
+| **Cursor** | https://cursor.com/ | AI-powered code editor with a free daily quota. |
+| **Bolt.new** | https://bolt.new/ | Build websites by describing them, no code required. |
+| **v0** | https://v0.app/ | Vercel's AI tool that turns descriptions into working webpages. |
+| **Replit** | https://replit.com/ | Browser-based coding environment with AI assistance and one-click deploys. |
+| **Napkin AI** | https://napkin.ai/ | Turn pasted text into infographics automatically. |
+| **Gamma** | https://gamma.app/ | Generate presentations automatically from a prompt or outline. |
+| **Uizard** | https://uizard.io/ | Turn a rough sketch into a working webpage design. |
+| **Claude** | https://claude.ai/ | Anthropic's free AI assistant, strong at long-text processing. |
 
-11. cursor.com — AI Code Writer
-Free Quota Sufficient for Daily Use
+---
 
-12. bolt.new — Build Websites by Talking
-Zero Code
+# 🌐 Everyday Utilities
 
-13. v0.app — Vercel AI Frontend Generator
-Descriptions Turn into Webpages
+| Tool | URL | Description |
+|------|-----|-------------|
+| **Fast.com** | https://fast.com/ | Quick internet speed test. |
+| **Raindrop.io** | https://raindrop.io/ | All-in-one bookmark manager. |
+| **DeepL** | https://deepl.com/ | Highly accurate machine translation. |
+| **Portfoliotab** | https://portfoliotab.io/ | Build a portfolio page that brands can discover you through. |
 
-14. replit.com — Browser Programming + AI Assistance
-One-Click Deployment
-
-15. napkin.ai — Paste Text
-Automatically Generate Infographics
-
-16. gamma.app — AI One-Click PPT Generation
-Say Goodbye to PPT Hell
-
-17. notion.com/product/ai — Notion AI
-Writing/Summarizing/Translating
-
-18. uizard.io — Sketch a Draft
-AI Generates Real Webpages
-
-19. perplexity.ai — AI Search Engine
-Instant Answers + Sources
-
-20. phind.com — Developer-Exclusive AI Search
-Code Issues Solved on Search
-
-21. otter.ai — Real-Time Meeting Transcription
-Free 300 Minutes per Month
-
-22. opus.pro — AI Short Video Editing
-Automatically Find Highlight Clips
-
-23. poe.com — One-Stop Use of GPT-4o/Claude/Gemini
-
-24. huggingface.co/spaces — Free Trials of Open-Source AI Models
-
-25. remove.bg — One-Click AI Background Removal
-Images in 1 Second
-
-26. cleanup.pictures — AI Removes Any Object from Photos
-
-27. deepswap.ai — AI Face Swap
-Images in 1 Minute
-
-28. musiio.com — AI Music Tagging + Recommendations
-
-29. jasper.ai/free — AI Writing Assistant
-Free Version Sufficient for Daily Use
-
-30. claude.ai — Anthropic Free AI Assistant
-Top-Tier Long Text Processing
-
-
-https://start.me/p/L1rEYQ/osint4all
-
-
-1. unpaywall.org — Free research papers
-2. openlibrary.org — Borrow books online
-3. theailibrary.co — 5,000+ AI tools in one directory
-4. gutenberg.org — 70K+ free books
-5. portfoliotab.io — Build a portfolio brands can find you through
-6. openstax.org — Free textbooks
-7. openculture.com — Free courses
-8. doaj.org — Free academic journals
-9. semanticscholar.org — Academic search
-10. connectedpapers.com — Map how papers connect
-11. scispace.com — Understand dense papers
-12. elicit.org — Research assistant
-13. consensus.app — Research backed answers
-14. summarize.tech — YouTube summaries
-15. notebooklm.google.com — Turn your documents into study guides
-16. wolframalpha.com — Solve complex problems
-17. photopea.com — Photoshop in your browser
-18. squoosh.app — Compress images
-19. remove.bg — Strip backgrounds
-20. cleanup.pictures — Delete objects from photos
-21. unscreen.com — Strip video backgrounds
-22. shots.so — Product mockups
-23. ray.so — Turn code into screenshots
-24. haveibeenpwned.com — Check if you have been breached
-25. virustotal.com — Scan a file or link before opening it
-26. privnote.com — Notes that delete themselves
-27. temp-mail.org — Throwaway email address
-28. justdelete.me — How to delete any account
-29. namechk.com — See where your username exists
-30. tineye.com — Reverse image search
-31. ilovepdf.com — Merge, split and compress PDFs
-32. file.io — Temporary file sharing
-33. wetransfer.com — Send big files
-34. codebeautify.org — Format code and data
-35. archive.org — The internet's memory
-36. archive.ph — Save a page before it disappears
-37. downdetector.com — Check if it is down for everyone
-38. fast.com — Speed test
-39. alternativeto.net — A cheaper version of any app
-40. similarsites.com — Find sites like this one
-41. musicforprogramming.net — Focus music
-42. mynoise.net — Build your own background noise
-43. coffitivity.com — Cafe ambience
-44. radio.garden — Spin the globe, hear local radio
-45. everynoise.com — Every genre that exists
-46. tunefind.com — Find the song from that scene
-47. justwatch.com — Find where anything is streaming
-48. regex101.com — Test regex
-49. explainshell.com — Decode terminal commands
-50. deepl.com — The most accurate translator
-
-
-📂 LEARN FOR FREE
-┣━━ 📁 NETWORKING
-┃   ┣━━ CCNA / Packet Tracer → netacad.com
-┃   ┣━━ Subnetting Practice → subnettingpractice.com
-┃   ┣━━ Networking / Network+ → professormesser.com
-┃   ┗━━ Linux → labex.io/linuxjourney
-┃
-┣━━ 📁 CYBERSECURITY
-┃   ┣━━ Hands-on Labs → tryhackme.com
-┃   ┣━━ Offensive Security → hackthebox.com
-┃   ┣━━ Web App Security → portswigger.net/web-security
-┃   ┣━━ Wargames → overthewire.org
-┃   ┗━━ CTF Practice → picoctf.org
-┃
-┣━━ 📁 DEVOPS & CLOUD
-┃   ┣━━ DevOps Roadmap → roadmap.sh/devops
-┃   ┣━━ DevOps Courses → kodekloud.com
-┃   ┣━━ Docker → docker.com/get-started
-┃   ┣━━ Kubernetes → kubernetes.io/docs/tutorials
-┃   ┣━━ Terraform → developer.hashicorp.com/terraform/tuto…
-┃   ┣━━ Ansible → docs.ansible.com
-┃   ┣━━ Cloud (AWS) → aws.amazon.com/training
-┃   ┣━━ Cloud (GCP) → cloudskillsboost.google
-┃   ┗━━ Cloud (Azure) → learn.microsoft.com/en-us/training…
-┃
-┣━━ 📁 WEB3 SECURITY
-┃   ┣━━ Smart Contract Security → updraft.cyfrin.io
-┃   ┣━━ Solidity → learnweb3.io
-┃   ┣━━ Solidity by Example → solidity-by-example.org
-┃   ┣━━ Exploit Challenges → ethernaut.openzeppelin.com
-┃   ┣━━ DeFi Exploits → damnvulnerabledefi.xyz
-┃   ┗━━ Blockchain Basics → cryptozombies.io
-┃
-┗━━ 📁 CORE DEV
-    ┣━━ HTML → html.com
-    ┣━━ CSS → web.dev/learn/css
-    ┣━━ JavaScript → javascript.info
-    ┣━━ Python → learnpython.org
-    ┣━━ SQL → w3schools.com/sql
-    ┗━━ Git → git-scm.com/book/en/v2
-
-
-
-https://daemoncore.app/
-https://gtfobins.org/
