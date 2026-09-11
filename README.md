@@ -1,4 +1,4 @@
-# 🛡️ Awesome Cybersecurity & OSINT Resources
+# 📖 The Internet Bible
 
 A curated collection of cybersecurity, OSINT, reconnaissance, privacy, and threat intelligence resources.
 
