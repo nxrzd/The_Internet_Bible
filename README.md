@@ -291,3 +291,57 @@ A curated collection of cybersecurity, OSINT, reconnaissance, privacy, and threa
 | **DeepL** | https://deepl.com/ | Highly accurate machine translation. |
 | **Portfoliotab** | https://portfoliotab.io/ | Build a portfolio page that brands can discover you through. |
 
+
+
+
+
+.) '12ft.io' — Bypass any paywall
+2.) 'libgen.is' — Millions of free textbooks
+3.) 'sci-hub.se' — Free academic articles
+4.) 'alternativeto.net' — Find free app alternatives
+5.) 'justwatch.com' — Find where any content is published
+6.) 'archive.org' — Access any old web page
+7.) 'gutenberg.org' — 70,000 free classic books
+8.) 'pdfdrive.com' — Free PDF downloads
+9.) 'openculture.com' — Free courses from top universities
+10.) 'wolframalpha.com' — Solve any math problem instantly
+11.) 'photopea.com' — Free Photoshop in your browser
+12.) 'squoosh.app' — Compress any image for free
+13.) 'remove.bg' — Remove image backgrounds for free
+14.) 'cleanup.pictures' — Remove objects from photos
+15.) 'unscreen.com' — Remove video backgrounds
+16.) 'carbon.now.sh' — Turn code into art
+17.) 'ray.so' — Stylish code screenshots
+18.) 'shots.so' — Free product mockups
+19.) 'smartmockups.com' — Create mockups without Photoshop
+20.) 'haveibeenpwned.com' — Check if you've been hacked
+21.) 'virustotal.com' — Scan any file for malware
+22.) 'privnote.com' — Send self-destructing messages
+23.) 'temp-mail.org' — Instant disposable email
+24.) 'file.io' — Auto-deleting file sharing
+25.) 'archive.ph' — Permanently save any web page
+26.) 'similarsites.com' — Find alternatives to any site
+27.) 'radio.garden' — Listen to any radio station worldwide
+28.) 'everynoise.com' — Discover every music genre
+29.) 'tunefind.com' — Find songs from any TV show
+30.) 'musicforprogramming.net' — Focus music
+31.) 'mynoise.net' — Custom focus soundscapes
+32.) 'coffitivity.com' — Cafe sounds that boost productivity
+33.) 'elicit.org' — AI academic paper assistant
+34.) 'consensus.app' — Search scientific consensus
+35.) 'connectedpapers.com' — Visualize academic paper maps
+36.) 'semanticscholar.org' — Free academic search
+37.) 'scispace.com' — Understand any academic paper
+38.) 'summarize.tech' — Summarize any YouTube video
+39.) 'phind.com' — AI search engine for developers
+40.) 'regex101.com' — Test any regex instantly
+41.) 'codebeautify.org' — Format code cleanly
+42.) 'jsonformatter.org' — Read JSON like a human
+43.) 'explainshell.com' — Understand terminal commands
+44.) 'raindrop.io' — Effective bookmark manager
+45.) 'downdetector.com' — Check if any site is down
+46.) 'tineye.com' — Reverse image search
+47.) 'fast.com' — Check internet speed
+48.) 'smallpdf.com' — Free PDF editing
+49.) 'ilovepdf.com' — Merge and split PDFs
+50.) '10minutemail.com' — Second-long temporary email
