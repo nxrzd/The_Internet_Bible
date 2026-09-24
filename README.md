@@ -345,3 +345,73 @@ A curated collection of cybersecurity, OSINT, reconnaissance, privacy, and threa
 48.) 'smallpdf.com' — Free PDF editing
 49.) 'ilovepdf.com' — Merge and split PDFs
 50.) '10minutemail.com' — Second-long temporary email
+
+1. twelveft.io — Bypass annoying paywalls
+
+2. archive.ph — Permanently save any webpage
+
+3. radio.garden — Listen to global radio broadcasts
+
+4. futureme.org — Send emails to your future self
+
+5. temp-mail.org — Disposable email addresses
+
+6. alternativeto.net — Find free app alternatives
+
+7. builtwith.com — Check technologies used by websites
+
+8. cleanup.pictures — Remove objects from images
+
+9. tinywow.com — Free PDF/image tools
+
+10. photopea.com — Photoshop in your browser
+
+11. pdf24.org — Free PDF toolkit
+
+12. excalidraw.com — Draw simple charts
+
+13. tldraw.com — Infinite whiteboard
+
+14. dictation.io — Online speech-to-text
+
+15. otter.ai — Transcribe meeting content
+
+16. descript.com — Edit audio like editing text
+
+17. loom.com — Record quick videos
+
+18. zapier.com @stevencoder9 — Automate tedious tasks 
+
+19. n8n.io — Build your own workflow automation
+
+20. remove.photos — Remove image backgrounds
+
+21. letsenhance.io — Enhance image quality
+
+22. pixabay.com — Free images/videos/music
+
+23. mixkit.co — Free stock videos/music
+
+24. untools.co — Decision-making tools
+
+25. roadmap.sh — Developer learning roadmaps
+
+26. learnxinyminutes.com — Learn programming quickly
+
+27. devdocs.io — All programming docs in one place
+
+28. jsoncrack.com — Visualize JSON files
+
+29. crontab.guru — Understand scheduled tasks
+
+30. copychar.cc — Copy special symbols
+
+31. screenshot.guru — Screenshot any webpage
+
+32. wordcounter.net — Quick word count
+
+33. justtherecipe.com — Skip recipe blog fluff
+
+34. camelcamelcamel.com — Amazon price history
+
+35. manualslib.com — Find manuals for any product
