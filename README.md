@@ -415,3 +415,57 @@ A curated collection of cybersecurity, OSINT, reconnaissance, privacy, and threa
 34. camelcamelcamel.com — Amazon price history
 
 35. manualslib.com — Find manuals for any product
+
+
+
+
+1. unpaywall.org — Free research papers
+2. openlibrary.org — Borrow books online
+3. doaj.org — Free academic journals
+4. gutenberg.org — 70K+ free books
+5. openstax.org — Free textbooks
+6. openculture.com — Free online courses
+7. wolframalpha.com — Solve complex problems
+8. elicit.org — AI research assistant
+9. consensus.app — Research-backed AI answers
+10. connectedpapers.com — Find research connections
+11. semanticscholar.org — Academic search engine
+12. scispace.com — Understand research papers easily
+13. photopea.com — Free Photoshop alternative
+14. squoosh.app — Compress & optimize images
+15. remove.bg — Remove image backgrounds
+16. cleanup.pictures — Remove objects from photos
+17. unscreen.com — Remove video backgrounds
+18. carbon.now.sh — Beautiful code images
+19. ray.so — Share elegant code screenshots
+20. phind.com — AI search engine for developers
+21. regex101.com — Test and debug regex
+22. codebeautify.org — Format & clean code
+23. jsonformatter.org — Format & validate JSON
+24. explainshell.com — Understand terminal commands
+25. shots.so — Stunning product mockups
+26. mediamodifier.com — Powerful online mockup generator
+27. alternativeto.net — Find alternatives to any app
+28. haveibeenpwned.com — Check data breaches
+29. virustotal.com — Scan files & URLs for malware
+30. privnote.com — Self-destructing text notes
+31. temp-mail.org — Disposable temporary email
+32. 10minutemail.com — 10-minute temporary email
+33. file.io — Temporary & secure file sharing
+34. radio.garden — Explore global live radio
+35. music-map.com — Discover similar music & artists
+36. tunefind.com — Find songs from movies & shows
+37. musicforprogramming.net — Focus music for coding
+38. mynoise.net — Custom background sounds
+39. coffitivity.com — Ambient café sounds for productivity
+40. justwatch.com — Find where to stream movies
+41. archive.org — The internet’s digital library
+42. archive.ph — Create a personal copy of any webpage
+43. similarsites.com — Find related websites
+44. summarize.tech — AI YouTube video summaries
+45. raindrop.io — Ultimate smart bookmark manager
+46. downdetector.com — Check real-time service outages
+47. tineye.com — Smart reverse image search
+48. fast.com — Quick internet speed test
+49. smallpdf.com — All-in-one PDF tools
+50. ilovepdf.com — Merge, split & convert PDFs
