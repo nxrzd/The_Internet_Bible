@@ -1,6 +1,6 @@
 # 📖 The Internet Bible
  
-A curated collection of cybersecurity, OSINT, reconnaissance, privacy, threat intelligence, learning, and productivity resources.
+My curated collection of cybersecurity, OSINT, reconnaissance, privacy, threat intelligence, learning, and productivity resources.
  
 ---
  
@@ -79,6 +79,7 @@ A curated collection of cybersecurity, OSINT, reconnaissance, privacy, threat in
 | **Digital Footprint Check** | https://www.digitalfootprintcheck.com/osint-tools-free | Collection of free OSINT tools for digital investigations and online research. |
 | **start.me OSINT Collection** | https://start.me/p/L1rEYQ/osint4all | Community-curated dashboard aggregating a wide range of OSINT tools and links. |
 | **Namechk** | https://namechk.com/ | Check whether a username or brand name is taken across many platforms at once. |
+| **OSINT4ALL** | https://start.me/p/L1rEYQ/osint4all | Master OSINT List
  
 ---
  
