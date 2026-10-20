@@ -382,3 +382,6 @@ My curated collection of cybersecurity, OSINT, reconnaissance, privacy, threat i
 | **OmniRoute (GitHub)** | https://github.com/diegosouzapw/OmniRoute | — |
 | **OmniRoute (site)** | https://www.omniroute.online/ | — |
  
+https://www.edx.org/
+https://z-lib.gd/
+https://github.com/sonarr/sonarr
