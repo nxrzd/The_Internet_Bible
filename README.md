@@ -385,3 +385,6 @@ My curated collection of cybersecurity, OSINT, reconnaissance, privacy, threat i
 https://www.edx.org/
 https://z-lib.gd/
 https://github.com/sonarr/sonarr
+https://ransomware.live/
+https://livethreatmap.radware.com/
+https://sicherheitstacho.eu/#/en/tacho
