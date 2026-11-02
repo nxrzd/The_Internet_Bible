@@ -388,3 +388,16 @@ https://github.com/sonarr/sonarr
 https://ransomware.live/
 https://livethreatmap.radware.com/
 https://sicherheitstacho.eu/#/en/tacho
+https://worldcam.io/
+www.ipcamlive.com
+https://511on.ca/
+https://www.omniroute.online/
+https://worldcam.eu/
+https://archivegenocide.com
+https://electerm.org/
+https://devopslabs.dev
+https://filex.sh
+https://reactbits.dev/animations/dither-veil
+https://codegym.cc/
+https://european-alternatives.eu/
+voicestudio.sh/
