@@ -401,3 +401,4 @@ https://reactbits.dev/animations/dither-veil
 https://codegym.cc/
 https://european-alternatives.eu/
 voicestudio.sh/
+https://azureblog.co.uk/learn/
